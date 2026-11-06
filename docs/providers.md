@@ -65,7 +65,7 @@ provider:
 
 ## Anthropic
 
-Calls the [Anthropic Messages API](https://docs.anthropic.com/en/api/messages) (`/v1/messages`) using `httpx` ? no Anthropic SDK dependency required.
+Calls the [Anthropic Messages API](https://docs.anthropic.com/en/api/messages) (`/v1/messages`) using `httpx` — no Anthropic SDK dependency required.
 
 ### Configuration
 
